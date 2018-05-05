@@ -1,0 +1,794 @@
+Customer ID	Country	City	State	Postal Code	Region
+CG-12520	United States	Henderson	Kentucky	42420	South
+DV-13045	United States	Los Angeles	California	90036	West
+SO-20335	United States	Fort Lauderdale	Florida	33311	South
+BH-11710	United States	Los Angeles	California	90032	West
+AA-10480	United States	Concord	North Carolina	28027	South
+IM-15070	United States	Seattle	Washington	98103	West
+HP-14815	United States	Fort Worth	Texas	76106	Central
+PK-19075	United States	Madison	Wisconsin	53711	Central
+AG-10270	United States	West Jordan	Utah	84084	West
+ZD-21925	United States	San Francisco	California	94109	West
+KB-16585	United States	Fremont	Nebraska	68025	Central
+SF-20065	United States	Philadelphia	Pennsylvania	19140	East
+EB-13870	United States	Orem	Utah	84057	West
+EH-13945	United States	Los Angeles	California	90049	West
+TB-21520	United States	Philadelphia	Pennsylvania	19140	East
+MA-17560	United States	Houston	Texas	77095	Central
+GH-14485	United States	Richardson	Texas	75080	Central
+SN-20710	United States	Houston	Texas	77041	Central
+LC-16930	United States	Naperville	Illinois	60540	Central
+RA-19885	United States	Los Angeles	California	90049	West
+ES-14080	United States	Melbourne	Florida	32935	South
+ON-18715	United States	Eagan	Minnesota	55122	Central
+PO-18865	United States	Westland	Michigan	48185	Central
+LH-16900	United States	Dover	Delaware	19901	East
+DP-13000	United States	New Albany	Indiana	47150	Central
+JM-15265	United States	New York City	New York	10024	East
+TB-21055	United States	Troy	New York	12180	East
+KM-16720	United States	Los Angeles	California	90004	West
+PS-18970	United States	Chicago	Illinois	60610	Central
+BS-11590	United States	Gilbert	Arizona	85234	West
+KD-16270	United States	Springfield	Virginia	22153	South
+HM-14980	United States	New York City	New York	10009	East
+JE-15745	United States	Memphis	Tennessee	38109	South
+KB-16600	United States	Houston	Texas	77041	Central
+SC-20770	United States	Decatur	Alabama	35601	South
+DN-13690	United States	San Francisco	California	94122	West
+JC-16105	United States	Durham	North Carolina	27707	South
+CS-12400	United States	Chicago	Illinois	60623	Central
+PG-18895	United States	Rochester	Minnesota	55901	Central
+GM-14455	United States	Houston	Texas	77095	Central
+JS-15685	United States	Los Angeles	California	90036	West
+KB-16315	United States	Minneapolis	Minnesota	55407	Central
+RB-19705	United States	Portland	Oregon	97206	West
+PN-18775	United States	New York City	New York	10009	East
+KD-16345	United States	San Francisco	California	94122	West
+ER-13855	United States	Saint Paul	Minnesota	55106	Central
+RB-19465	United States	Chicago	Illinois	60610	Central
+GZ-14470	United States	Rochester	Minnesota	55901	Central
+LC-16870	United States	Aurora	Colorado	80013	West
+JM-15250	United States	Charlotte	North Carolina	28205	South
+PA-19060	United States	Orland Park	Illinois	60462	Central
+CV-12805	United States	New York City	New York	10035	East
+CL-12565	United States	Urbandale	Iowa	50322	Central
+RC-19960	United States	Columbus	Ohio	43229	East
+DK-13090	United States	Seattle	Washington	98103	West
+GG-14650	United States	Bristol	Tennessee	37620	South
+SC-20725	United States	Wilmington	Delaware	19805	East
+AD-10180	United States	Houston	Texas	77041	Central
+PF-19165	United States	Bloomington	Illinois	61701	Central
+TS-21610	United States	Phoenix	Arizona	85023	West
+LS-16975	United States	Los Angeles	California	90004	West
+DW-13585	United States	Columbus	Ohio	43229	East
+LC-16885	United States	Roseville	California	95661	West
+JD-15895	United States	Philadelphia	Pennsylvania	19140	East
+SH-19975	United States	San Francisco	California	94122	West
+SG-20080	United States	Independence	Missouri	64055	Central
+HA-14920	United States	Pasadena	California	91104	West
+MG-17680	United States	Newark	Ohio	43055	East
+JE-16165	United States	Franklin	Wisconsin	53132	Central
+TW-21025	United States	Scottsdale	Arizona	85254	West
+SP-20650	United States	San Jose	California	95123	West
+NK-18490	United States	Seattle	Washington	98105	West
+DB-13060	United States	Seattle	Washington	98115	West
+NP-18670	United States	Edmond	Oklahoma	73034	Central
+TT-21070	United States	Los Angeles	California	90045	West
+EM-13960	United States	Philadelphia	Pennsylvania	19134	East
+RD-19900	United States	Carlsbad	New Mexico	88220	West
+MJ-17740	United States	Seattle	Washington	98115	West
+BM-11140	United States	San Antonio	Texas	78207	Central
+CS-12130	United States	Los Angeles	California	90004	West
+JB-15400	United States	Chicago	Illinois	60623	Central
+SJ-20500	United States	Houston	Texas	77036	Central
+JK-15640	United States	New York City	New York	10009	East
+DK-13150	United States	Decatur	Illinois	62521	Central
+RM-19675	United States	Monroe	Louisiana	71203	South
+SK-19990	United States	Fairfield	Connecticut	6824	East
+FM-14290	United States	Los Angeles	California	90032	West
+AM-10360	United States	Grand Prairie	Texas	75051	Central
+MP-17470	United States	New York City	New York	10035	East
+MZ-17515	United States	Redlands	California	92374	West
+CB-12025	United States	Hamilton	Ohio	45011	East
+VM-21685	United States	Westfield	New Jersey	7090	East
+FH-14365	United States	Philadelphia	Pennsylvania	19120	East
+MB-17305	United States	Akron	Ohio	44312	East
+BS-11755	United States	Denver	Colorado	80219	West
+LC-17140	United States	Dallas	Texas	75220	Central
+HK-14890	United States	Franklin	Tennessee	37064	South
+LE-16810	United States	Whittier	California	90604	West
+JH-15985	United States	Saginaw	Michigan	48601	Central
+MS-17980	United States	Dallas	Texas	75220	Central
+VW-21775	United States	Medina	Ohio	44256	East
+JH-15910	United States	Los Angeles	California	90032	West
+JB-15925	United States	Dublin	Ohio	43017	East
+DS-13180	United States	Detroit	Michigan	48227	Central
+VD-21670	United States	Columbia	Tennessee	38401	South
+EA-14035	United States	Charlotte	North Carolina	28205	South
+DB-13120	United States	Santa Clara	California	95051	West
+KL-16645	United States	Chicago	Illinois	60610	Central
+DW-13480	United States	Lakeville	Minnesota	55044	Central
+LH-17155	United States	San Francisco	California	94109	West
+KC-16540	United States	San Diego	California	92037	West
+DL-13315	United States	New York City	New York	10024	East
+DR-12880	United States	Chicago	Illinois	60623	Central
+CC-12670	United States	New York City	New York	10009	East
+Dl-13600	United States	Pasadena	Texas	77506	Central
+SB-20290	United States	Houston	Texas	77036	Central
+RC-19825	United States	Chicago	Illinois	60610	Central
+AH-10210	United States	Brentwood	California	94513	West
+CB-12535	United States	Chapel Hill	North Carolina	27514	South
+CA-12310	United States	Cincinnati	Ohio	45231	East
+KH-16690	United States	San Francisco	California	94110	West
+BB-10990	United States	Inglewood	California	90301	West
+AG-10495	United States	Philadelphia	Pennsylvania	19140	East
+JO-15280	United States	Los Angeles	California	90004	West
+AH-10195	United States	Tamarac	Florida	33319	South
+NZ-18565	United States	Columbus	Ohio	43229	East
+KL-16555	United States	Colorado Springs	Colorado	80906	West
+AS-10225	United States	New York City	New York	10024	East
+CR-12625	United States	Lakewood	New Jersey	8701	East
+SH-20395	United States	Arlington	Virginia	22204	South
+BP-11185	United States	Arvada	Colorado	80004	West
+TS-21205	United States	Hackensack	New Jersey	7601	East
+AG-10525	United States	Saint Petersburg	Florida	33710	South
+SP-20860	United States	Philadelphia	Pennsylvania	19143	East
+NM-18445	United States	New York City	New York	10024	East
+FA-14230	United States	Long Beach	California	90805	West
+GK-14620	United States	Hesperia	California	92345	West
+DJ-13510	United States	Murfreesboro	Tennessee	37130	South
+PO-18850	United States	Philadelphia	Pennsylvania	19143	East
+JL-15850	United States	Philadelphia	Pennsylvania	19134	East
+DB-13615	United States	Los Angeles	California	90045	West
+AC-10420	United States	San Francisco	California	94122	West
+CC-12550	United States	San Francisco	California	94122	West
+TD-20995	United States	Lowell	Massachusetts	1852	East
+AB-10060	United States	New York City	New York	10009	East
+JL-15505	United States	New York City	New York	10035	East
+VB-21745	United States	Columbus	Georgia	31907	South
+KW-16435	United States	New York City	New York	10009	East
+JD-16060	United States	San Francisco	California	94109	West
+MK-17905	United States	Manchester	Connecticut	6040	East
+GT-14755	United States	Harlingen	Texas	78550	Central
+AG-10900	United States	Tucson	Arizona	85705	West
+MM-18280	United States	Quincy	Illinois	62301	Central
+AR-10405	United States	Franklin	Massachusetts	2038	East
+RA-19915	United States	Houston	Texas	77095	Central
+AS-10285	United States	San Francisco	California	94109	West
+LA-16780	United States	Taylor	Michigan	48180	Central
+DO-13435	United States	Pembroke Pines	Florida	33024	South
+DK-13225	United States	Philadelphia	Pennsylvania	19140	East
+NG-18430	United States	Cincinnati	Ohio	45231	East
+MV-18190	United States	New York City	New York	10009	East
+JG-15115	United States	Des Moines	Washington	98198	West
+BP-11095	United States	Peoria	Illinois	61604	Central
+VP-21730	United States	Las Vegas	Nevada	89115	West
+SS-20140	United States	Warwick	Rhode Island	2886	East
+AG-10675	United States	Houston	Texas	77036	Central
+LF-17185	United States	Miami	Florida	33180	South
+RF-19840	United States	New York City	New York	10024	East
+KH-16510	United States	San Francisco	California	94110	West
+KC-16675	United States	Seattle	Washington	98105	West
+CJ-12010	United States	Huntington Beach	California	92646	West
+PB-19150	United States	Los Angeles	California	90004	West
+MP-17965	United States	Lawrence	Massachusetts	1841	East
+NF-18385	United States	Jackson	Mississippi	39212	South
+SD-20485	United States	New Rochelle	New York	10801	East
+KH-16630	United States	San Antonio	Texas	78207	Central
+RB-19795	United States	Gastonia	North Carolina	28052	South
+MK-18160	United States	Jacksonville	Florida	32216	South
+PO-19180	United States	Chicago	Illinois	60623	Central
+BB-11545	United States	Houston	Texas	77070	Central
+TB-21595	United States	Columbus	Indiana	47201	Central
+RB-19360	United States	Auburn	New York	13021	East
+EB-13705	United States	Akron	Ohio	44312	East
+SC-20095	United States	Concord	California	94521	West
+TN-21040	United States	Phoenix	Arizona	85023	West
+JS-15940	United States	Park Ridge	Illinois	60068	Central
+MH-17785	United States	Lindenhurst	New York	11757	East
+JP-15520	United States	San Francisco	California	94110	West
+JE-15475	United States	Troy	New York	12180	East
+JG-15805	United States	New York City	New York	10024	East
+XP-21865	United States	San Diego	California	92024	West
+EM-14065	United States	New York City	New York	10024	East
+MT-18070	United States	Los Angeles	California	90045	West
+SA-20830	United States	Chicago	Illinois	60610	Central
+CW-11905	United States	Huntsville	Texas	77340	Central
+AJ-10960	United States	Rochester	New York	14609	East
+SS-20590	United States	Seattle	Washington	98115	West
+RO-19780	United States	Memphis	Tennessee	38109	South
+MD-17350	United States	Fayetteville	Arkansas	72701	South
+MY-17380	United States	Parker	Colorado	80134	West
+CM-12385	United States	Atlanta	Georgia	30318	South
+LS-17245	United States	Gladstone	Missouri	64118	Central
+BN-11515	United States	Los Angeles	California	90049	West
+DB-13210	United States	Houston	Texas	77041	Central
+MC-17605	United States	Detroit	Michigan	48234	Central
+BD-11605	United States	Lawrence	Massachusetts	1841	East
+PH-18790	United States	Lakeland	Florida	33801	South
+MG-18145	United States	Philadelphia	Pennsylvania	19134	East
+KB-16240	United States	Los Angeles	California	90036	West
+JC-15340	United States	Los Angeles	California	90032	West
+RL-19615	United States	Montgomery	Alabama	36116	South
+AA-10375	United States	Mesa	Arizona	85204	West
+EP-13915	United States	Chicago	Illinois	60653	Central
+DK-12985	United States	Henderson	Kentucky	42420	South
+BD-11500	United States	Green Bay	Wisconsin	54302	Central
+LM-17065	United States	Springfield	Ohio	45503	East
+AS-10135	United States	New York City	New York	10035	East
+BD-11320	United States	San Francisco	California	94110	West
+GT-14710	United States	Houston	Texas	77070	Central
+AJ-10945	United States	Wilmington	North Carolina	28403	South
+OT-18730	United States	Los Angeles	California	90045	West
+LP-17080	United States	San Francisco	California	94110	West
+CA-12775	United States	Tampa	Florida	33614	South
+JF-15490	United States	Seattle	Washington	98105	West
+FP-14320	United States	Los Angeles	California	90008	West
+EB-13840	United States	Seattle	Washington	98105	West
+JF-15415	United States	New York City	New York	10024	East
+SF-20200	United States	Marysville	Washington	98270	West
+TG-21640	United States	Long Beach	California	90805	West
+CS-11950	United States	Chicago	Illinois	60610	Central
+CC-12145	United States	Los Angeles	California	90004	West
+DV-13465	United States	Denver	Colorado	80219	West
+BD-11725	United States	Richmond	Kentucky	40475	South
+ZC-21910	United States	Salem	Oregon	97301	West
+MS-17830	United States	Laredo	Texas	78041	Central
+LR-16915	United States	San Diego	California	92024	West
+TP-21130	United States	Philadelphia	Pennsylvania	19134	East
+CK-12205	United States	Philadelphia	Pennsylvania	19120	East
+AS-10240	United States	Tampa	Florida	33614	South
+AR-10510	United States	Philadelphia	Pennsylvania	19134	East
+NB-18655	United States	Dallas	Texas	75217	Central
+GD-14590	United States	Philadelphia	Pennsylvania	19143	East
+CK-12595	United States	Grove City	Ohio	43123	East
+NG-18355	United States	New York City	New York	10011	East
+CA-12265	United States	Chicago	Illinois	60610	Central
+SF-20965	United States	Dearborn	Michigan	48126	Central
+MO-17800	United States	New York City	New York	10009	East
+AT-10735	United States	Seattle	Washington	98115	West
+FM-14380	United States	Aurora	Colorado	80013	West
+DJ-13420	United States	Warner Robins	Georgia	31088	South
+ME-17725	United States	Aurora	Colorado	80013	West
+JD-16150	United States	Minneapolis	Minnesota	55407	Central
+JL-15835	United States	Mission Viejo	California	92691	West
+SC-20305	United States	Rochester Hills	Michigan	48307	Central
+CC-12430	United States	Columbus	Indiana	47201	Central
+AR-10825	United States	Vancouver	Washington	98661	West
+SR-20740	United States	New York City	New York	10024	East
+CR-12730	United States	Columbus	Ohio	43229	East
+EH-14125	United States	Aurora	Illinois	60505	Central
+SP-20545	United States	New York City	New York	10011	East
+TH-21235	United States	Dallas	Texas	75081	Central
+RP-19390	United States	Cleveland	Ohio	44105	East
+RB-19570	United States	Columbus	Indiana	47201	Central
+CD-11980	United States	Tyler	Texas	75701	Central
+DJ-13630	United States	New York City	New York	10024	East
+GT-14635	United States	Burlington	North Carolina	27217	South
+MC-17845	United States	Jackson	Mississippi	39212	South
+RA-19285	United States	New York City	New York	10035	East
+NP-18325	United States	Waynesboro	Virginia	22980	South
+AB-10165	United States	Los Angeles	California	90036	West
+JO-15550	United States	Chester	Pennsylvania	19013	East
+JK-15370	United States	Long Beach	California	90805	West
+BN-11470	United States	Cary	North Carolina	27511	South
+DP-13165	United States	New York City	New York	10035	East
+TH-21550	United States	New York City	New York	10035	East
+AP-10915	United States	Palm Coast	Florida	32137	South
+RS-19765	United States	Mount Vernon	New York	10550	East
+SV-20365	United States	Dover	Delaware	19901	East
+CK-12325	United States	Orem	Utah	84057	West
+RD-19810	United States	Los Angeles	California	90045	West
+MR-17545	United States	Philadelphia	Pennsylvania	19140	East
+SC-20695	United States	Hialeah	Florida	33012	South
+JF-15355	United States	Austin	Texas	78745	Central
+EG-13900	United States	Oceanside	New York	11572	East
+DS-13030	United States	Seattle	Washington	98115	West
+PO-19195	United States	Naperville	Illinois	60540	Central
+SS-20875	United States	Dallas	Texas	75220	Central
+PB-19105	United States	Evanston	Illinois	60201	Central
+RF-19735	United States	Trenton	Michigan	48183	Central
+YC-21895	United States	San Francisco	California	94110	West
+DC-13285	United States	Cottage Grove	Minnesota	55016	Central
+CP-12340	United States	New York City	New York	10009	East
+BF-11020	United States	Green Bay	Wisconsin	54302	Central
+LH-17020	United States	Columbus	Ohio	43229	East
+CS-12250	United States	Bossier City	Louisiana	71111	South
+AJ-10795	United States	Saint Petersburg	Florida	33710	South
+BV-11245	United States	Des Moines	Iowa	50315	Central
+DL-12865	United States	Cincinnati	Ohio	45231	East
+BM-11785	United States	Columbus	Ohio	43229	East
+LT-17110	United States	Lancaster	California	93534	West
+JK-15730	United States	Asheville	North Carolina	28806	South
+ES-14020	United States	San Francisco	California	94110	West
+RH-19495	United States	Rochester	Minnesota	55901	Central
+CD-11920	United States	Lake Elsinore	California	92530	West
+HW-14935	United States	San Diego	California	92105	West
+MC-18130	United States	Monroe	Louisiana	71203	South
+GM-14440	United States	San Francisco	California	94122	West
+PJ-19015	United States	Santa Ana	California	92704	West
+BW-11110	United States	Milwaukee	Wisconsin	53209	Central
+TR-21325	United States	Belleville	New Jersey	7109	East
+PG-18820	United States	San Francisco	California	94110	West
+JL-15175	United States	Columbia	Tennessee	38401	South
+BM-11650	United States	New York City	New York	10035	East
+EM-14095	United States	Los Angeles	California	90036	West
+AF-10885	United States	Louisville	Kentucky	40214	South
+GA-14725	United States	Lorain	Ohio	44052	East
+CK-12760	United States	Linden	New Jersey	7036	East
+DP-13105	United States	Salinas	California	93905	West
+BK-11260	United States	New York City	New York	10035	East
+SJ-20125	United States	New Brunswick	New Jersey	8901	East
+CM-12445	United States	San Francisco	California	94122	West
+AJ-10780	United States	Springfield	Virginia	22153	South
+LS-16945	United States	Philadelphia	Pennsylvania	19140	East
+GP-14740	United States	Lancaster	Pennsylvania	17602	East
+PK-18910	United States	Philadelphia	Pennsylvania	19143	East
+SM-20005	United States	New York City	New York	10009	East
+AG-10765	United States	Philadelphia	Pennsylvania	19120	East
+PM-19135	United States	Detroit	Michigan	48227	Central
+LL-16840	United States	Rochester	New York	14609	East
+JS-15595	United States	Los Angeles	California	90045	West
+EL-13735	United States	Columbia	Maryland	21044	East
+PC-18745	United States	San Francisco	California	94122	West
+HL-15040	United States	Houston	Texas	77095	Central
+MS-17365	United States	Detroit	Michigan	48227	Central
+GB-14530	United States	Auburn	New York	13021	East
+JR-16210	United States	Springfield	Ohio	45503	East
+BE-11335	United States	Jackson	Michigan	49201	Central
+SC-20050	United States	Norwich	Connecticut	6360	East
+RW-19630	United States	Dallas	Texas	75220	Central
+SE-20110	United States	New York City	New York	10009	East
+AH-10075	United States	New York City	New York	10011	East
+JM-15535	United States	Philadelphia	Pennsylvania	19143	East
+JJ-15760	United States	Springfield	Virginia	22153	South
+RK-19300	United States	Philadelphia	Pennsylvania	19140	East
+CG-12040	United States	Philadelphia	Pennsylvania	19120	East
+RP-19270	United States	Riverside	California	92503	West
+KC-16255	United States	San Francisco	California	94110	West
+KH-16360	United States	Philadelphia	Pennsylvania	19143	East
+GH-14665	United States	Round Rock	Texas	78664	Central
+SW-20275	United States	Jackson	Mississippi	39212	South
+JA-15970	United States	Phoenix	Arizona	85023	West
+DL-12925	United States	Oceanside	California	92054	West
+LW-16990	United States	San Francisco	California	94110	West
+TB-21190	United States	Fayetteville	Arkansas	72701	South
+BS-11800	United States	New York City	New York	10011	East
+RW-19690	United States	Wilmington	North Carolina	28403	South
+TZ-21580	United States	Louisville	Colorado	80027	West
+AS-10630	United States	Pasadena	Texas	77506	Central
+TS-21340	United States	Houston	Texas	77041	Central
+SL-20155	United States	Jacksonville	Florida	32216	South
+MW-18235	United States	Virginia Beach	Virginia	23464	South
+RD-19585	United States	Henderson	Kentucky	42420	South
+RA-19945	United States	Murrieta	California	92563	West
+MT-17815	United States	Scottsdale	Arizona	85254	West
+VG-21790	United States	San Diego	California	92037	West
+JS-15880	United States	Seattle	Washington	98103	West
+KM-16225	United States	New York City	New York	10011	East
+HR-14770	United States	Los Angeles	California	90045	West
+DE-13255	United States	Springfield	Ohio	45503	East
+AG-10390	United States	Cincinnati	Ohio	45231	East
+JJ-15445	United States	Los Angeles	California	90004	West
+JH-15430	United States	Burlington	North Carolina	27217	South
+RD-19660	United States	Saint Peters	Missouri	63376	Central
+MO-17500	United States	New York City	New York	10035	East
+NS-18640	United States	Chicago	Illinois	60610	Central
+DG-13300	United States	Philadelphia	Pennsylvania	19134	East
+NF-18595	United States	New York City	New York	10009	East
+MG-17650	United States	Philadelphia	Pennsylvania	19143	East
+TS-21160	United States	Toledo	Ohio	43615	East
+BD-11620	United States	San Francisco	California	94122	West
+CM-12160	United States	Brownsville	Texas	78521	Central
+SN-20560	United States	Los Angeles	California	90008	West
+EH-14005	United States	Denver	Colorado	80219	West
+FO-14305	United States	New York City	New York	10035	East
+MS-17710	United States	Mesa	Arizona	85204	West
+CC-12100	United States	Columbus	Indiana	47201	Central
+DW-13540	United States	Seattle	Washington	98105	West
+BT-11395	United States	Detroit	Michigan	48227	Central
+CY-12745	United States	Oakland	California	94601	West
+BT-11485	United States	Clinton	Maryland	20735	East
+PS-19045	United States	Charlotte	North Carolina	28205	South
+PV-18985	United States	San Francisco	California	94122	West
+NM-18520	United States	Riverside	California	92503	West
+DL-13495	United States	San Francisco	California	94110	West
+CS-12355	United States	Roswell	Georgia	30076	South
+FH-14275	United States	La Porte	Indiana	46350	Central
+NC-18340	United States	Lansing	Michigan	48911	Central
+AA-10315	United States	Minneapolis	Minnesota	55407	Central
+LT-16765	United States	Escondido	California	92025	West
+AP-10720	United States	New York City	New York	10035	East
+PM-18940	United States	Jackson	Michigan	49201	Central
+AT-10435	United States	Los Angeles	California	90004	West
+CA-12055	United States	Houston	Texas	77070	Central
+HR-14830	United States	Seattle	Washington	98103	West
+BT-11530	United States	Los Angeles	California	90036	West
+LH-16750	United States	Charlotte	North Carolina	28205	South
+SW-20755	United States	New York City	New York	10009	East
+SP-20620	United States	Philadelphia	Pennsylvania	19134	East
+BF-11170	United States	Los Angeles	California	90036	West
+KT-16480	United States	Buffalo	New York	14215	East
+BG-11695	United States	Cincinnati	Ohio	45231	East
+GM-14680	United States	Seattle	Washington	98105	West
+EJ-14155	United States	Gulfport	Mississippi	39503	South
+NP-18700	United States	Fresno	California	93727	West
+MH-18115	United States	Chester	Pennsylvania	19013	East
+JR-15700	United States	Jacksonville	Florida	32216	South
+SM-20950	United States	Greenville	North Carolina	27834	South
+CC-12220	United States	La Porte	Indiana	46350	Central
+PF-19225	United States	San Francisco	California	94122	West
+DC-12850	United States	Florence	Alabama	35630	South
+BD-11770	United States	Houston	Texas	77070	Central
+GM-14500	United States	Providence	Rhode Island	2908	East
+TB-21355	United States	New York City	New York	10009	East
+JH-16180	United States	Pueblo	Colorado	81001	West
+EB-13975	United States	Fairfield	California	94533	West
+QJ-19255	United States	Saint Paul	Minnesota	55106	Central
+TC-21535	United States	Arlington	Virginia	22204	South
+CS-12460	United States	Columbus	Georgia	31907	South
+HG-14965	United States	Los Angeles	California	90032	West
+LW-16825	United States	Deltona	Florida	32725	South
+MC-17575	United States	Cincinnati	Ohio	45231	East
+LP-17095	United States	Murray	Kentucky	42071	South
+EB-14170	United States	Wilmington	North Carolina	28403	South
+GZ-14545	United States	Lawrence	Massachusetts	1841	East
+CP-12085	United States	Norwich	Connecticut	6360	East
+FG-14260	United States	San Francisco	California	94110	West
+LD-17005	United States	San Francisco	California	94109	West
+AB-10255	United States	Lorain	Ohio	44052	East
+MN-17935	United States	Dallas	Texas	75220	Central
+JR-15670	United States	Middletown	Connecticut	6457	East
+JF-15190	United States	Los Angeles	California	90008	West
+CM-12115	United States	New York City	New York	10011	East
+AS-10045	United States	Jacksonville	North Carolina	28540	South
+BP-11290	United States	Evanston	Illinois	60201	Central
+ND-18370	United States	Louisville	Kentucky	40214	South
+LB-16735	United States	Fort Worth	Texas	76106	Central
+KT-16465	United States	Los Angeles	California	90049	West
+HM-14860	United States	Philadelphia	Pennsylvania	19120	East
+AB-10600	United States	Tucson	Arizona	85705	West
+SZ-20035	United States	Pico Rivera	California	90660	West
+MG-17890	United States	Clinton	Maryland	20735	East
+JK-16120	United States	Aurora	Illinois	60505	Central
+PP-18955	United States	Smyrna	Georgia	30080	South
+YS-21880	United States	Burlington	North Carolina	27217	South
+KM-16375	United States	Salem	Virginia	24153	South
+AB-10105	United States	Phoenix	Arizona	85023	West
+HA-14905	United States	New York City	New York	10024	East
+BT-11305	United States	Costa Mesa	California	92627	West
+SV-20815	United States	Houston	Texas	77041	Central
+RW-19540	United States	Mesa	Arizona	85204	West
+DK-12835	United States	Salinas	California	93905	West
+ST-20530	United States	Parma	Ohio	44134	East
+MM-17920	United States	San Francisco	California	94110	West
+PW-19030	United States	Richmond	Kentucky	40475	South
+SC-20440	United States	Aurora	Colorado	80013	West
+TS-21085	United States	Phoenix	Arizona	85023	West
+MC-17425	United States	Mobile	Alabama	36608	South
+ME-17320	United States	Columbus	Georgia	31907	South
+NH-18610	United States	Irving	Texas	75061	Central
+MB-18085	United States	Vineland	New Jersey	8360	East
+KD-16495	United States	New York City	New York	10009	East
+KN-16390	United States	Los Angeles	California	90004	West
+NP-18685	United States	Niagara Falls	New York	14304	East
+CS-12505	United States	Thomasville	North Carolina	27360	South
+MS-17770	United States	New York City	New York	10035	East
+CM-12655	United States	Los Angeles	California	90008	West
+Co-12640	United States	Philadelphia	Pennsylvania	19143	East
+TS-21370	United States	New York City	New York	10035	East
+JW-15220	United States	Vancouver	Washington	98661	West
+JD-15790	United States	Coppell	Texas	75019	Central
+PC-19000	United States	Los Angeles	California	90004	West
+AR-10540	United States	New York City	New York	10024	East
+AI-10855	United States	Philadelphia	Pennsylvania	19120	East
+TB-21400	United States	Seattle	Washington	98105	West
+PL-18925	United States	Chicago	Illinois	60610	Central
+GH-14425	United States	Tucson	Arizona	85705	West
+MP-18175	United States	Laguna Niguel	California	92677	West
+JM-15655	United States	Bridgeton	New Jersey	8302	East
+CL-11890	United States	Everett	Massachusetts	2149	East
+DB-13270	United States	San Diego	California	92024	West
+IG-15085	United States	San Diego	California	92024	West
+BO-11425	United States	Richmond	Kentucky	40475	South
+AB-10150	United States	Long Beach	New York	11561	East
+JW-16075	United States	Philadelphia	Pennsylvania	19140	East
+EB-13750	United States	Seattle	Washington	98103	West
+SG-20470	United States	New York City	New York	10011	East
+CM-12190	United States	Philadelphia	Pennsylvania	19134	East
+AW-10840	United States	Allen	Texas	75002	Central
+MC-18100	United States	El Paso	Texas	79907	Central
+TT-21460	United States	Aurora	Illinois	60505	Central
+VG-21805	United States	Virginia Beach	Virginia	23464	South
+MY-18295	United States	Grapevine	Texas	76051	Central
+RD-19480	United States	Olympia	Washington	98502	West
+DP-13390	United States	Peoria	Illinois	61604	Central
+ML-17395	United States	Los Angeles	California	90008	West
+JC-15385	United States	Kent	Washington	98031	West
+JG-15160	United States	Los Angeles	California	90049	West
+MC-17275	United States	Lafayette	Louisiana	70506	South
+NW-18400	United States	Tigard	Oregon	97224	West
+TB-21280	United States	Washington	District of Columbia	20016	East
+BS-11380	United States	Skokie	Illinois	60076	Central
+HH-15010	United States	San Francisco	California	94110	West
+CD-12280	United States	Seattle	Washington	98105	West
+TH-21100	United States	Los Angeles	California	90045	West
+MM-18055	United States	Seattle	Washington	98115	West
+NS-18505	United States	Dallas	Texas	75217	Central
+RB-19645	United States	North Las Vegas	Nevada	89031	West
+SW-20455	United States	Suffolk	Virginia	23434	South
+EB-13930	United States	San Francisco	California	94110	West
+PS-18760	United States	Los Angeles	California	90008	West
+HF-14995	United States	Indianapolis	Indiana	46203	Central
+HZ-14950	United States	Columbus	Ohio	43229	East
+CD-12790	United States	San Diego	California	92037	West
+JK-15205	United States	San Francisco	California	94122	West
+FM-14215	United States	Dublin	Ohio	43017	East
+ED-13885	United States	San Diego	California	92037	West
+DA-13450	United States	Houston	Texas	77095	Central
+JW-15955	United States	Oakland	California	94601	West
+RM-19375	United States	Houston	Texas	77095	Central
+ML-17755	United States	Suffolk	Virginia	23434	South
+CC-12685	United States	Greensboro	North Carolina	27405	South
+JE-15610	United States	Milwaukee	Wisconsin	53209	Central
+RP-19855	United States	Kenosha	Wisconsin	53142	Central
+TB-21175	United States	Houston	Texas	77041	Central
+BE-11455	United States	Olathe	Kansas	66062	Central
+JF-15565	United States	Dallas	Texas	75081	Central
+PB-19210	United States	Tulsa	Oklahoma	74133	Central
+BT-11680	United States	Newark	Ohio	43055	East
+JL-15235	United States	Chicago	Illinois	60623	Central
+CH-12070	United States	Raleigh	North Carolina	27604	South
+ND-18460	United States	Macon	Georgia	31204	South
+BF-10975	United States	Charlotte	North Carolina	28205	South
+KH-16330	United States	Bowling Green	Kentucky	42104	South
+GW-14605	United States	Seattle	Washington	98115	West
+NC-18625	United States	Aurora	Colorado	80013	West
+ME-18010	United States	San Francisco	California	94122	West
+BP-11230	United States	Spokane	Washington	99207	West
+JC-15775	United States	San Antonio	Texas	78207	Central
+AS-10090	United States	Charlottesville	Virginia	22901	South
+AC-10450	United States	Minneapolis	Minnesota	55407	Central
+MD-17860	United States	Indianapolis	Indiana	46203	Central
+DB-13660	United States	Oceanside	New York	11572	East
+EH-13990	United States	Roswell	Georgia	30076	South
+EH-13765	United States	Watertown	New York	13601	East
+SC-20230	United States	Arlington	Texas	76017	Central
+JE-15715	United States	Broomfield	Colorado	80020	West
+AC-10615	United States	New York City	New York	10009	East
+JD-16015	United States	Chicago	Illinois	60610	Central
+CB-12415	United States	Columbus	Ohio	43229	East
+JS-16030	United States	Houston	Texas	77036	Central
+LW-17215	United States	Pasadena	California	91104	West
+SC-20800	United States	Houston	Texas	77041	Central
+AM-10705	United States	Auburn	Alabama	36830	South
+RH-19510	United States	Providence	Rhode Island	2908	East
+CT-11995	United States	Rochester	Minnesota	55901	Central
+MC-17590	United States	Perth Amboy	New Jersey	8861	East
+CC-12610	United States	Philadelphia	Pennsylvania	19134	East
+KA-16525	United States	Ontario	California	91761	West
+TC-20980	United States	Seattle	Washington	98105	West
+BF-11080	United States	Baltimore	Maryland	21215	East
+MM-17260	United States	Wilmington	Delaware	19805	East
+AH-10120	United States	Tucson	Arizona	85705	West
+BW-11200	United States	Boynton Beach	Florida	33437	South
+SW-20245	United States	Stockton	California	95207	West
+BS-11665	United States	Philadelphia	Pennsylvania	19143	East
+RF-19345	United States	Dover	New Hampshire	3820	East
+WB-21850	United States	Philadelphia	Pennsylvania	19134	East
+TB-21625	United States	Grand Prairie	Texas	75051	Central
+AF-10870	United States	College Station	Texas	77840	Central
+RB-19435	United States	Saint Louis	Missouri	63116	Central
+KF-16285	United States	Manteca	California	95336	West
+JH-15820	United States	Kent	Ohio	44240	East
+IL-15100	United States	San Francisco	California	94122	West
+PB-18805	United States	Salt Lake City	Utah	84106	West
+RH-19600	United States	Huntsville	Alabama	35810	South
+AW-10930	United States	Aurora	Illinois	60505	Central
+ML-17410	United States	Fairfield	Connecticut	6824	East
+DB-13555	United States	Jacksonville	Florida	32216	South
+MH-17620	United States	San Francisco	California	94110	West
+DK-13375	United States	Marion	Ohio	43302	East
+BT-11440	United States	Littleton	Colorado	80122	West
+DB-13405	United States	La Porte	Indiana	46350	Central
+TG-21310	United States	Los Angeles	California	90049	West
+BF-11005	United States	Pasadena	California	91104	West
+JM-16195	United States	Los Angeles	California	90004	West
+MZ-17335	United States	San Diego	California	92024	West
+MW-18220	United States	New York City	New York	10035	East
+MV-17485	United States	Arlington	Virginia	22204	South
+SM-20320	United States	Monroe	North Carolina	28110	South
+TP-21415	United States	Seattle	Washington	98115	West
+JK-15625	United States	Seattle	Washington	98115	West
+PJ-18835	United States	Murfreesboro	Tennessee	37130	South
+RS-19420	United States	Seattle	Washington	98115	West
+SV-20935	United States	New York City	New York	10009	East
+BC-11125	United States	Peoria	Arizona	85345	West
+EM-13825	United States	Sioux Falls	South Dakota	57103	Central
+BM-11575	United States	New York City	New York	10035	East
+KN-16705	United States	Fort Collins	Colorado	80525	West
+KW-16570	United States	Clarksville	Tennessee	37042	South
+SC-20260	United States	San Francisco	California	94122	West
+CV-12295	United States	Fresno	California	93727	West
+SG-20605	United States	New York City	New York	10009	East
+TM-21010	United States	San Francisco	California	94122	West
+EM-13810	United States	Los Angeles	California	90036	West
+ML-18040	United States	Albuquerque	New Mexico	87105	West
+CR-12580	United States	Elmhurst	Illinois	60126	Central
+AZ-10750	United States	New York City	New York	10009	East
+PW-19240	United States	Louisville	Colorado	80027	West
+SC-20380	United States	Seattle	Washington	98115	West
+CM-11935	United States	Fayetteville	North Carolina	28314	South
+GM-14695	United States	Los Angeles	California	90036	West
+TB-21250	United States	New York City	New York	10024	East
+JM-15865	United States	Jamestown	New York	14701	East
+SC-20575	United States	Mishawaka	Indiana	46544	Central
+LS-17200	United States	Skokie	Illinois	60076	Central
+RR-19315	United States	San Francisco	California	94110	West
+DB-12910	United States	Tampa	Florida	33614	South
+TT-21220	United States	Houston	Texas	77041	Central
+LO-17170	United States	La Quinta	California	92253	West
+KD-16615	United States	Scottsdale	Arizona	85254	West
+NB-18580	United States	Philadelphia	Pennsylvania	19134	East
+BD-11635	United States	Bowling Green	Kentucky	42104	South
+CM-12235	United States	Carrollton	Texas	75007	Central
+EN-13780	United States	New York City	New York	10035	East
+KN-16450	United States	Jacksonville	Florida	32216	South
+BO-11350	United States	Los Angeles	California	90045	West
+AG-10300	United States	Los Angeles	California	90049	West
+MC-17635	United States	Saint Louis	Missouri	63116	Central
+TA-21385	United States	New York City	New York	10024	East
+JF-15295	United States	Seattle	Washington	98103	West
+TT-21265	United States	Los Angeles	California	90045	West
+SB-20170	United States	New York City	New York	10035	East
+CL-12700	United States	Springfield	Missouri	65807	Central
+HG-15025	United States	Amarillo	Texas	79109	Central
+NL-18310	United States	Los Angeles	California	90045	West
+RR-19525	United States	Lowell	Massachusetts	1852	East
+TC-21295	United States	San Diego	California	92024	West
+SV-20785	United States	Pueblo	Colorado	81001	West
+BE-11410	United States	Lancaster	Ohio	43130	East
+SC-20680	United States	Columbus	Georgia	31907	South
+DF-13135	United States	Vallejo	California	94591	West
+FH-14350	United States	Seattle	Washington	98105	West
+MS-17530	United States	San Diego	California	92037	West
+RH-19555	United States	Tallahassee	Florida	32303	South
+GA-14515	United States	San Francisco	California	94122	West
+JP-16135	United States	Columbus	Georgia	31907	South
+Dp-13240	United States	Murray	Utah	84107	West
+MO-17950	United States	Dallas	Texas	75220	Central
+DL-13330	United States	Las Cruces	New Mexico	88001	West
+MH-18025	United States	Seattle	Washington	98115	West
+DR-12940	United States	Franklin	Massachusetts	2038	East
+DM-13015	United States	Encinitas	California	92024	West
+CA-11965	United States	Hoover	Alabama	35244	South
+AC-10660	United States	Huntsville	Texas	77340	Central
+DM-13345	United States	Roswell	Georgia	30076	South
+VF-21715	United States	Columbus	Indiana	47201	Central
+CC-12370	United States	Fayetteville	North Carolina	28314	South
+BF-11275	United States	Tucson	Arizona	85705	West
+HG-14845	United States	Lake Charles	Louisiana	70601	South
+BP-11155	United States	Columbus	Georgia	31907	South
+EM-14140	United States	Glendale	Arizona	85301	West
+MA-17995	United States	Watertown	New York	13601	East
+AY-10555	United States	Oceanside	California	92054	West
+GB-14575	United States	Philadelphia	Pennsylvania	19134	East
+JB-16045	United States	Columbus	Georgia	31907	South
+MG-17875	United States	New York City	New York	10011	East
+SR-20425	United States	Louisville	Colorado	80027	West
+JB-16000	United States	Brownsville	Texas	78521	Central
+DM-12955	United States	Lincoln Park	Michigan	48146	Central
+TC-21475	United States	Columbus	Georgia	31907	South
+SW-20350	United States	Detroit	Michigan	48227	Central
+RE-19450	United States	Dallas	Texas	75081	Central
+BF-11215	United States	Albuquerque	New Mexico	87105	West
+KB-16405	United States	Apple Valley	California	92307	West
+JG-15310	United States	Providence	Rhode Island	2908	East
+EC-14050	United States	New York City	New York	10024	East
+EB-14110	United States	Philadelphia	Pennsylvania	19134	East
+JP-15460	United States	Oceanside	New York	11572	East
+CS-11845	United States	Seattle	Washington	98105	West
+GH-14410	United States	Glendale	Arizona	85301	West
+PT-19090	United States	Houston	Texas	77070	Central
+JL-15130	United States	Houston	Texas	77036	Central
+AH-10030	United States	Philadelphia	Pennsylvania	19134	East
+CC-12475	United States	New York City	New York	10024	East
+DW-13195	United States	Houston	Texas	77095	Central
+SJ-20215	United States	Grand Prairie	Texas	75051	Central
+BG-11740	United States	Philadelphia	Pennsylvania	19120	East
+LB-16795	United States	Highland Park	Illinois	60035	Central
+CM-11815	United States	Pasadena	Texas	77506	Central
+EH-14185	United States	Decatur	Alabama	35601	South
+TS-21505	United States	Columbia	Tennessee	38401	South
+PR-18880	United States	Oakland	California	94601	West
+LC-17050	United States	Mission Viejo	California	92691	West
+CS-12490	United States	Conroe	Texas	77301	Central
+DH-13075	United States	Richmond	Kentucky	40475	South
+JO-15145	United States	Philadelphia	Pennsylvania	19140	East
+AH-10690	United States	New York City	New York	10024	East
+HJ-14875	United States	Jacksonville	Florida	32216	South
+MH-17455	United States	Jacksonville	North Carolina	28540	South
+RD-19930	United States	Austin	Texas	78745	Central
+SC-20020	United States	Plano	Texas	75023	Central
+SU-20665	United States	Jackson	Mississippi	39212	South
+FC-14335	United States	Mesquite	Texas	75150	Central
+RB-19330	United States	Philadelphia	Pennsylvania	19143	East
+NC-18535	United States	Dallas	Texas	75217	Central
+DB-12970	United States	Los Angeles	California	90004	West
+MF-17665	United States	Toledo	Ohio	43615	East
+RM-19750	United States	New York City	New York	10011	East
+VM-21835	United States	Newark	Delaware	19711	East
+EJ-13720	United States	San Diego	California	92037	West
+NC-18415	United States	Jacksonville	North Carolina	28540	South
+LS-17230	United States	Dover	Delaware	19901	East
+KE-16420	United States	Bristol	Tennessee	37620	South
+DH-13675	United States	Quincy	Massachusetts	2169	East
+PF-19120	United States	Gilbert	Arizona	85234	West
+VT-21700	United States	Philadelphia	Pennsylvania	19143	East
+MG-17695	United States	Buffalo	New York	14215	East
+SP-20920	United States	Los Angeles	California	90036	West
+CS-12175	United States	Columbia	Tennessee	38401	South
+DK-12895	United States	Kenosha	Wisconsin	53142	Central
+KM-16660	United States	Roswell	Georgia	30076	South
+AA-10645	United States	Chester	Pennsylvania	19013	East
+DD-13570	United States	Houston	Texas	77041	Central
+AH-10465	United States	New York City	New York	10035	East
+TP-21565	United States	Aurora	Colorado	80013	West
+EK-13795	United States	Santa Ana	California	92704	West
+CR-12820	United States	New York City	New York	10035	East
+SG-20890	United States	Mcallen	Texas	78501	Central
+AH-10585	United States	Chicago	Illinois	60623	Central
+NF-18475	United States	Rockford	Illinois	61107	Central
+BS-11365	United States	New York City	New York	10011	East
+SH-20635	United States	Jackson	Tennessee	38301	South
+RD-19720	United States	Daytona Beach	Florida	32114	South
+AG-10330	United States	Stockton	California	95207	West
+GR-14560	United States	San Francisco	California	94110	West
+VS-21820	United States	Los Angeles	California	90036	West
+TM-21490	United States	Oklahoma City	Oklahoma	73120	Central
+TS-21430	United States	Los Angeles	California	90045	West
+DB-13360	United States	New York City	New York	10009	East
+NR-18550	United States	Aurora	Illinois	60505	Central
+CS-11860	United States	Jacksonville	North Carolina	28540	South
+MF-18250	United States	Los Angeles	California	90036	West
+LW-17125	United States	Norwich	Connecticut	6360	East
+AR-10345	United States	Lawrence	Massachusetts	1841	East
+KS-16300	United States	Lehi	Utah	84043	West
+AB-10015	United States	Seattle	Washington	98103	West
+LR-17035	United States	Philadelphia	Pennsylvania	19134	East
+SS-20410	United States	Los Angeles	California	90008	West
+JM-15580	United States	Monroe	North Carolina	28110	South
+JK-15325	United States	Dallas	Texas	75220	Central
+DM-13525	United States	Houston	Texas	77070	Central
+ML-18265	United States	Seattle	Washington	98103	West
+MH-17290	United States	Los Angeles	California	90036	West
+FC-14245	United States	Lakewood	Ohio	44107	East
+TH-21115	United States	Philadelphia	Pennsylvania	19140	East
+JK-16090	United States	Omaha	Nebraska	68104	Central
+SB-20185	United States	Concord	New Hampshire	3301	East
+BG-11035	United States	Monroe	Louisiana	71203	South
+BW-11065	United States	Raleigh	North Carolina	27604	South
+MG-18205	United States	Jacksonville	Florida	32216	South
+DO-13645	United States	Los Angeles	California	90036	West
+BP-11050	United States	Cranston	Rhode Island	2920	East
+TS-21655	United States	Milwaukee	Wisconsin	53209	Central
+EM-14200	United States	Virginia Beach	Virginia	23464	South
+AO-10810	United States	Los Angeles	California	90045	West
+MH-17440	United States	New York City	New York	10035	East
+SS-20515	United States	Louisville	Kentucky	40214	South
+LD-16855	United States	Chicago	Illinois	60653	Central
+VP-21760	United States	San Francisco	California	94109	West
+TC-21145	United States	Lakewood	New Jersey	8701	East
+IM-15055	United States	Roseville	California	95661	West
+AR-10570	United States	Columbus	Georgia	31907	South
+CM-12715	United States	Huntsville	Texas	77340	Central
+FW-14395	United States	Huntsville	Alabama	35810	South
+LC-16960	United States	Arlington	Virginia	22204	South
+HE-14800	United States	Chicago	Illinois	60623	Central
+BD-11560	United States	Fresno	California	93727	West
+HD-14785	United States	Philadelphia	Pennsylvania	19143	East
+CJ-11875	United States	Philadelphia	Pennsylvania	19140	East
+RS-19870	United States	Burlington	Iowa	52601	Central
+SC-20845	United States	Arlington Heights	Illinois	60004	Central
+RE-19405	United States	Kent	Ohio	44240	East
+SM-20905	United States	Newark	Ohio	43055	East
